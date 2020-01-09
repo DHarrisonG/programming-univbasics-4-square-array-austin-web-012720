@@ -4,6 +4,6 @@ def square_array(array)
   while num < array.length do
     result = array[num] * array[num]
     num += 1
-    result
   end
+  result
 end
