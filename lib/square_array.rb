@@ -1,4 +1,4 @@
-num = 0
+$num = 0
 
 def square_array(array)
   while num < array.length do
